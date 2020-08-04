@@ -17,7 +17,8 @@ Precicion, Recall, Accuracy, Confusion Matriz, were compared.
 then the data was split for training the data using Logistic Regression for multiclass classification of Supervised Learning, and the models were optimised by tuning the hyperparameters, in
 which the performance metrics shows the results obtained. 
 
-3. [Human Activity Recognition using Smartphones: Supervised Learning Project]()
+3. [Human Activity Recognition using Smartphones: Supervised Learning Project](https://github.com/JoseGil93/Machine-Learning/blob/master/218659676%20Assignment%204%20ML%20(2).html.pdf)
+
 * It is a human activity Recognition Problem. 
 * The data was gathered from a experiment of 30 volunteers between 19-48 years old, each volunteer had to perform 6 activities while they were wearing a smartphone to track the sensors signals such as acelerometer and gyroscope, the acceleration signal has a gravitational force and body motion components. 
 * Therefore, from a Training dataset of more than 7.000 instances and Testing dataset of more than 2.500 instances, compiled in txt files as digits of unstructured data, it was required to develop 5 algorithms in order to solve this problem. First of all, it was implemented K-NN, K-Nearest neighbour, and each k was cross-validated with 10 k-fold, the results were evaluated form the performance metrics. Secondly, it was implemented a Multiclass Logistic Regression with Elastic Net and the model was also optimised. 

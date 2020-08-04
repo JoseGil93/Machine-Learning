@@ -2,7 +2,7 @@
 * This Repository contains 3 Projects that I have developed during this Unit in my Master's Degree:
 * I have developed the projects in Python through Jupyter, Anaconda. 
 
-1.
+1. [Bangalore Restaurants: Data Exploration and SL Classification Models](https://github.com/JoseGil93/Predictive-Analytics-for-implementing-features-in-Restaurants/blob/master/218659676%20LP2%20Predictive%20(5).pdf)
 In this project, an Unsupervised Learning Task was developed, by using K-Means for Clustering and PCA for Dimensionality Reduction. 
 
 2. 

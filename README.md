@@ -1,6 +1,6 @@
 # Machine Learning
 * This Repository contains 3 Projects that I have developed during this Unit in my Master's Degree:
-* I have developed the projects in Python through Jupyter, Anaconda. 
+* I have developed the following projects in Python through Jupyter, Anaconda. 
 
 1. [Image Recognition: PCA, Unsupervised Learning Project](https://github.com/JoseGil93/Machine-Learning/blob/master/SIT720_A1_218659676%20(2).pdf)
 

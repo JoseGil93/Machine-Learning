@@ -4,7 +4,9 @@
 
 1. [Image Recognition: PCA, Unsupervised Learning Project](https://github.com/JoseGil93/Machine-Learning/blob/master/SIT720_A1_218659676%20(2).pdf)
 
-* In this project, an Unsupervised Learning Task was developed, by using K-Means for Clustering and PCA for Dimensionality Reduction. 
+* In this project, the dataset contains 8x8 pixel images of 0-9 digits, as unstructured Data with more than 1.500 instance in every file. 
+* An Unsupervised Learning Task was developed, by using K-Means algorithm with Euclidean Distance for Clustering and PCA for Dimensionality Reduction. 
+* The PCA was plot in a Scatter Plot. 
 
 2. [Breast Cancer Diagnosis and Handwritten digits Classifications: Binary and Multiclass Classification](https://github.com/JoseGil93/Machine-Learning/blob/master/Machine%20Learning%20A2%20Final.pdf)
 

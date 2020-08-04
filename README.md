@@ -2,8 +2,9 @@
 * This Repository contains 3 Projects that I have developed during this Unit in my Master's Degree:
 * I have developed the projects in Python through Jupyter, Anaconda. 
 
-1. [Bangalore Restaurants: Data Exploration and SL Classification Models](https://github.com/JoseGil93/Predictive-Analytics-for-implementing-features-in-Restaurants/blob/master/218659676%20LP2%20Predictive%20(5).pdf)
-In this project, an Unsupervised Learning Task was developed, by using K-Means for Clustering and PCA for Dimensionality Reduction. 
+1. [Image Recognition: PCA, Unsupervised Learning Project](https://github.com/JoseGil93/Machine-Learning/blob/master/SIT720_A1_218659676%20(2).pdf)
+
+* In this project, an Unsupervised Learning Task was developed, by using K-Means for Clustering and PCA for Dimensionality Reduction. 
 
 2. 
 * This Project consisted in 2 main parts, the first part is from a Dataset about Breast Cancer Diagnosis Data from Wisconsin, used in a Kaggle Competition. For the First part of this

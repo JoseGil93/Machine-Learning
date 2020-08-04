@@ -1,5 +1,5 @@
 # Machine Learning
-* This Repository contains 3 Projects that I have developed during this Unit in my Master's Degree:
+* This Repository contains 3 Projects that I have developed in this Unit during my Master's Degree:
 * I have developed the following projects in Python through Jupyter, Anaconda. 
 
 1. [Image Recognition: PCA, Unsupervised Learning Project](https://github.com/JoseGil93/Machine-Learning/blob/master/SIT720_A1_218659676%20(2).pdf)
@@ -16,3 +16,10 @@ Precicion, Recall, Accuracy, Confusion Matriz, were compared.
 * For the second main part, Multiclass Classification, it was used an unstructured data of handwritten digits. Thus, descriptive statistics was performed with data exploration, 
 then the data was split for training the data using Logistic Regression for multiclass classification of Supervised Learning, and the models were optimised by tuning the hyperparameters, in
 which the performance metrics shows the results obtained. 
+
+3. [Human Activity Recognition using Smartphones: Supervised Learning Project]()
+* It is a human activity Recognition Problem. 
+* The data was gathered from a experiment of 30 volunteers between 19-48 years old, each volunteer had to perform 6 activities while they were wearing a smartphone to track the sensors signals such as acelerometer and gyroscope, the acceleration signal has a gravitational force and body motion components. 
+* Therefore, from a Training dataset of more than 7.000 instances and Testing dataset of more than 2.500 instances, compiled in txt files as digits of unstructured data, it was required to develop 5 algorithms in order to solve this problem. First of all, it was implemented K-NN, K-Nearest neighbour, and each k was cross-validated with 10 k-fold, the results were evaluated form the performance metrics. Secondly, it was implemented a Multiclass Logistic Regression with Elastic Net and the model was also optimised. 
+* Thirdly, a SVM or Super Vector Machine algowithm was performed, applying it with a RBF Kernel and tunning the gamma and C parameters in order to obtain the best results from a well trained data. The results of the predictions were evaluated with the f1-score, accuracy, confusion matrix, performance metrics. 
+* Finally, a Random Forest algorithm was implemented for classifying the data accuratelly and the hyperparemeter such as tree-depth were optimised. After evaluating the performance metrics of every algorithm, it helped to decide the best performer algorithm for this Classification Problem. 
